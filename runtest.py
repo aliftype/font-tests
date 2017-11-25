@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import argparse
 import sys
 
 import harfbuzz as hb
@@ -56,30 +57,35 @@ def runTest(tests, refs, fontname):
     return passed, failed, results
 
 if __name__ == '__main__':
-    fontname = sys.argv[1]
+    parser = argparse.ArgumentParser(description="Run font tests.")
+    parser.add_argument("--font-file", metavar="FILE", type=str, help="Font to test", required=True)
+    parser.add_argument("--test-file", metavar="FILE", type=str, help="Test to run", required=True)
+    parser.add_argument("--ref-file", metavar="FILE", type=str, help="Test reference", required=True)
+    parser.add_argument("--log-file", metavar="FILE", type=str, help="File to write log to", required=True)
+    parser.add_argument("--reference", action='store_true', help="Run in reference mode")
 
-    with open(sys.argv[2]) as test:
+    args = parser.parse_args()
+
+    with open(args.test_file) as test:
         tests = test.read().splitlines()
 
-    with open(sys.argv[3]) as ref:
+    with open(args.ref_file) as ref:
         refs = ref.read().splitlines()
 
-    reference = False
-    if len(sys.argv) >= 5 and sys.argv[4] == "--reference":
-        reference = True
+    if args.reference:
         refs = [""] * len(tests)
 
-    passed, failed, results = runTest(tests, refs, fontname)
+    passed, failed, results = runTest(tests, refs, args.font_file)
 
-    if reference:
-        with open(sys.argv[3], "w") as ref:
+    if args.reference:
+        with open(args.ref_file, "w") as ref:
             ref.write("\n".join(results))
         sys.exit(0)
 
     message = "%d passed, %d failed" % (len(passed), len(failed))
 
     if not failed:
-        with open(sys.argv[4], "w") as result:
+        with open(args.log_file, "w") as result:
             result.write(message + "\n")
 
     if failed:

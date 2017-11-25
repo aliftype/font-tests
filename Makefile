@@ -23,9 +23,9 @@ check: $(AMLOGS) $(ARLOGS)
 	@echo "   TEST    $(PROFILE):$(TEST)"
 	@mkdir -p $(dir $@)
 	@$(PY) $(RUNTEST)                                                      \
-	       $(PROFILESDIR)/$(PROFILE)/font                                  \
-	       $(TESTSDIR)/$(TEST).tst                                         \
-	       $(PROFILESDIR)/$(PROFILE)/$(TEST).shp                           \
-	       $@
+	       --font-file=$(PROFILESDIR)/$(PROFILE)/font                      \
+	       --test-file=$(TESTSDIR)/$(TEST).tst                             \
+	       --ref-file=$(PROFILESDIR)/$(PROFILE)/$(TEST).shp                \
+	       --log-file=$@
 
 FORCE:
