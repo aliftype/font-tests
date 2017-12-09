@@ -8,10 +8,10 @@ PROFILESDIR=profiles
 
 RUNTEST=runtest.py
 
-TESTS=$(sort $(wildcard $(TESTSDIR)/*.tst))
+TESTS=$(sort $(wildcard $(TESTSDIR)/*.txt))
 
-AMLOGS=$(TESTS:$(TESTSDIR)/%.tst=$(LOGSDIR)/amiri/%.log)
-ARLOGS=$(TESTS:$(TESTSDIR)/%.tst=$(LOGSDIR)/aref-ruqaa/%.log)
+AMLOGS=$(TESTS:$(TESTSDIR)/%.txt=$(LOGSDIR)/amiri/%.log)
+ARLOGS=$(TESTS:$(TESTSDIR)/%.txt=$(LOGSDIR)/aref-ruqaa/%.log)
 
 all: check
 
@@ -24,8 +24,8 @@ check: $(AMLOGS) $(ARLOGS)
 	@mkdir -p $(dir $@)
 	@$(PY) $(RUNTEST)                                                      \
 	       --font-file=$(PROFILESDIR)/$(PROFILE)/font                      \
-	       --test-file=$(TESTSDIR)/$(TEST).tst                             \
-	       --ref-file=$(PROFILESDIR)/$(PROFILE)/$(TEST).shp                \
+	       --test-file=$(TESTSDIR)/$(TEST).txt                             \
+	       --ref-file=$(PROFILESDIR)/$(PROFILE)/$(TEST).ref                \
 	       --log-file=$@
 
 FORCE:
