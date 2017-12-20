@@ -84,17 +84,18 @@ if __name__ == '__main__':
 
     message = "%d passed, %d failed" % (len(passed), len(failed))
 
-    if not failed:
-        with open(args.log_file, "w") as result:
+    with open(args.log_file, "w") as result:
+        result.write(message + "\n")
+        if failed:
+            msg = []
+            for failure in failed:
+                msg.append(str(failure))
+                msg.append("string:   \t%s" % failed[failure][0])
+                msg.append("reference:\t%s" % failed[failure][1])
+                msg.append("result:   \t%s" % failed[failure][2])
+            msg.append(message)
+            message = "\n".join(msg)
+            print(message)
             result.write(message + "\n")
 
-    if failed:
-        for failure in failed:
-            print(failure)
-            print("string:   \t", failed[failure][0])
-            print("reference:\t", failed[failure][1])
-            print("result:   \t", failed[failure][2])
-        print(message)
-        sys.exit(1)
-
-    sys.exit(0)
+    sys.exit(len(failed))
