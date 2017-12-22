@@ -4,7 +4,7 @@ PY?=python3
 
 TESTSDIR=tests
 LOGSDIR=logs
-PROFILESDIR=profiles
+REFDIR=references
 
 RUNTEST=runtest.py
 
@@ -18,14 +18,14 @@ all: check
 check: $(AMLOGS) $(ARLOGS)
 
 %.log: FORCE
-	@$(eval PROFILE=$(notdir $(patsubst %/,%,$(dir $@))))
+	@$(eval REF=$(notdir $(patsubst %/,%,$(dir $@))))
 	@$(eval TEST=$(basename $(notdir $@)))
-	@echo "   TEST    $(PROFILE):$(TEST)"
+	@echo "   TEST    $(REF):$(TEST)"
 	@mkdir -p $(dir $@)
 	@$(PY) $(RUNTEST)                                                      \
-	       --font-file=$(PROFILESDIR)/$(PROFILE)/font                      \
+	       --font-file=$(REFDIR)/$(REF)/font                      \
 	       --test-file=$(TESTSDIR)/$(TEST).txt                             \
-	       --ref-file=$(PROFILESDIR)/$(PROFILE)/$(TEST).ref                \
+	       --ref-file=$(REFDIR)/$(REF)/$(TEST).ref                \
 	       --log-file=$@
 
 FORCE:
