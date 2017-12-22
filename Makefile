@@ -9,14 +9,17 @@ REFDIR=references
 RUNTEST=runtest.py
 
 AMREFS=$(sort $(wildcard $(REFDIR)/amiri/*.ref))
+AQREFS=$(sort $(wildcard $(REFDIR)/amiri-quran/*.ref))
 ARREFS=$(sort $(wildcard $(REFDIR)/aref-ruqaa/*.ref))
 
 AMLOGS=$(AMREFS:$(REFDIR)/amiri/%.ref=$(LOGSDIR)/amiri/%.log)
+AQLOGS=$(AQREFS:$(REFDIR)/amiri-quran/%.ref=$(LOGSDIR)/amiri-quran/%.log)
 ARLOGS=$(ARREFS:$(REFDIR)/aref-ruqaa/%.ref=$(LOGSDIR)/aref-ruqaa/%.log)
 
 all: amiri aref-ruqaa
 
 amiri: $(AMLOGS)
+amiri-quran: $(AQLOGS)
 aref-ruqaa: $(ARLOGS)
 
 %.log: FORCE
