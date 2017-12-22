@@ -8,10 +8,11 @@ REFDIR=references
 
 RUNTEST=runtest.py
 
-TESTS=$(sort $(wildcard $(TESTSDIR)/*.txt))
+AMREFS=$(sort $(wildcard $(REFDIR)/amiri/*.ref))
+ARREFS=$(sort $(wildcard $(REFDIR)/aref-ruqaa/*.ref))
 
-AMLOGS=$(TESTS:$(TESTSDIR)/%.txt=$(LOGSDIR)/amiri/%.log)
-ARLOGS=$(TESTS:$(TESTSDIR)/%.txt=$(LOGSDIR)/aref-ruqaa/%.log)
+AMLOGS=$(AMREFS:$(REFDIR)/amiri/%.ref=$(LOGSDIR)/amiri/%.log)
+ARLOGS=$(ARREFS:$(REFDIR)/aref-ruqaa/%.ref=$(LOGSDIR)/aref-ruqaa/%.log)
 
 all: amiri aref-ruqaa
 
