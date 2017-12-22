@@ -13,9 +13,10 @@ TESTS=$(sort $(wildcard $(TESTSDIR)/*.txt))
 AMLOGS=$(TESTS:$(TESTSDIR)/%.txt=$(LOGSDIR)/amiri/%.log)
 ARLOGS=$(TESTS:$(TESTSDIR)/%.txt=$(LOGSDIR)/aref-ruqaa/%.log)
 
-all: check
+all: amiri aref-ruqaa
 
-check: $(AMLOGS) $(ARLOGS)
+amiri: $(AMLOGS)
+aref-ruqaa: $(ARLOGS)
 
 %.log: FORCE
 	@$(eval REF=$(notdir $(patsubst %/,%,$(dir $@))))
