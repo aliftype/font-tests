@@ -16,7 +16,7 @@ AMLOGS=$(AMREFS:$(REFDIR)/amiri/%.ref=$(LOGSDIR)/amiri/%.log)
 AQLOGS=$(AQREFS:$(REFDIR)/amiri-quran/%.ref=$(LOGSDIR)/amiri-quran/%.log)
 ARLOGS=$(ARREFS:$(REFDIR)/aref-ruqaa/%.ref=$(LOGSDIR)/aref-ruqaa/%.log)
 
-all: amiri aref-ruqaa
+all: amiri amiri-quran aref-ruqaa
 
 amiri: $(AMLOGS)
 amiri-quran: $(AQLOGS)
@@ -28,9 +28,9 @@ aref-ruqaa: $(ARLOGS)
 	@echo "   TEST    $(REF):$(TEST)"
 	@mkdir -p $(dir $@)
 	@$(PY) $(RUNTEST)                                                      \
-	       --font-file=$(REFDIR)/$(REF)/font                      \
+	       --font-file=$(REFDIR)/$(REF)/font                               \
 	       --test-file=$(TESTSDIR)/$(TEST).txt                             \
-	       --ref-file=$(REFDIR)/$(REF)/$(TEST).ref                \
+	       --ref-file=$(REFDIR)/$(REF)/$(TEST).ref                         \
 	       --log-file=$@
 
 FORCE:
