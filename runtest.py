@@ -80,6 +80,7 @@ if __name__ == '__main__':
     if args.reference:
         with open(args.ref_file, "w") as ref:
             ref.write("\n".join(results))
+            ref.write("\n")
         sys.exit(0)
 
     message = "%d passed, %d failed" % (len(passed), len(failed))

@@ -17,10 +17,15 @@ AQLOGS=$(AQREFS:$(REFDIR)/amiri-quran/%.ref=$(LOGSDIR)/amiri-quran/%.log)
 ARLOGS=$(ARREFS:$(REFDIR)/aref-ruqaa/%.ref=$(LOGSDIR)/aref-ruqaa/%.log)
 
 all: amiri amiri-quran aref-ruqaa
+update: update-amiri update-amiri-quran update-aref-ruqaa
 
 amiri: $(AMLOGS)
 amiri-quran: $(AQLOGS)
 aref-ruqaa: $(ARLOGS)
+
+update-amiri: $(AMREFS)
+update-amiri-quran: $(AQREFS)
+update-aref-ruqaa: $(ARREFS)
 
 %.log: FORCE
 	@$(eval REF=$(notdir $(patsubst %/,%,$(dir $@))))
@@ -28,6 +33,17 @@ aref-ruqaa: $(ARLOGS)
 	@echo "   TEST    $(REF):$(TEST)"
 	@mkdir -p $(dir $@)
 	@$(PY) $(RUNTEST)                                                      \
+	       --font-file=$(REFDIR)/$(REF)/font                               \
+	       --test-file=$(TESTSDIR)/$(TEST).txt                             \
+	       --ref-file=$(REFDIR)/$(REF)/$(TEST).ref                         \
+	       --log-file=$@
+
+%.ref: FORCE
+	@$(eval REF=$(notdir $(patsubst %/,%,$(dir $@))))
+	@$(eval TEST=$(basename $(notdir $@)))
+	@echo "   TEST    $(REF):$(TEST)"
+	@$(PY) $(RUNTEST)                                                      \
+	       --reference                                                     \
 	       --font-file=$(REFDIR)/$(REF)/font                               \
 	       --test-file=$(TESTSDIR)/$(TEST).txt                             \
 	       --ref-file=$(REFDIR)/$(REF)/$(TEST).ref                         \
