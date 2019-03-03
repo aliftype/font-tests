@@ -2,11 +2,14 @@
 
 PY?=python3
 
-TESTSDIR=tests
-LOGSDIR=logs
-REFDIR=references
+BASEDIR := $(dir $(lastword $(MAKEFILE_LIST)))
 
-RUNTEST=runtest.py
+TESTSDIR=$(BASEDIR)/tests
+LOGSDIR=$(BASEDIR)/logs
+REFDIR=$(BASEDIR)/references
+ENVDIR=$(BASEDIR)/env
+
+RUNTEST=$(BASEDIR)/runtest.py
 
 AMREFS=$(sort $(wildcard $(REFDIR)/amiri/*.ref))
 AQREFS=$(sort $(wildcard $(REFDIR)/amiri-quran/*.ref))
@@ -27,7 +30,10 @@ update-amiri: $(AMREFS)
 update-amiri-quran: $(AQREFS)
 update-aref-ruqaa: $(ARREFS)
 
+.ONESHELL:
+
 %.log: FORCE
+	@source $(ENVDIR)/bin/activate
 	@$(eval REF=$(notdir $(patsubst %/,%,$(dir $@))))
 	@$(eval TEST=$(basename $(notdir $@)))
 	@echo "   TEST    $(REF):$(TEST)"
@@ -39,6 +45,7 @@ update-aref-ruqaa: $(ARREFS)
 	       --log-file=$@
 
 %.ref: FORCE
+	@source $(ENVDIR)/bin/activate
 	@$(eval REF=$(notdir $(patsubst %/,%,$(dir $@))))
 	@$(eval TEST=$(basename $(notdir $@)))
 	@echo "   TEST    $(REF):$(TEST)"

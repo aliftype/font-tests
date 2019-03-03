@@ -1,3 +1,4 @@
 *.swp
-/references/*/font
+/env
 /logs/
+/references/*/font
