@@ -38,7 +38,7 @@ def runHB(text, buf, font):
             text += " y=%d" % p.y_offset
         out.append(text)
 
-    return "[%s]" % "|".join(out)
+    return "%s" % "|".join(out)
 
 def runTest(tests, refs, fontname):
     failed = {}
