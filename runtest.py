@@ -3,6 +3,7 @@
 import argparse
 import sys
 
+from fontTools.ttLib import TTFont
 import uharfbuzz as hb
 
 def getHbFont(fontname):
@@ -12,7 +13,10 @@ def getHbFont(fontname):
     font = hb.Font(face)
     font.scale = (face.upem, face.upem)
 
-    return font
+    ttFont = TTFont(fontname)
+    glyphOrder = ttFont.getGlyphOrder()
+
+    return font, glyphOrder
 
 def runHB(text, buf, font):
     #buf.clear_contents()
@@ -21,6 +25,8 @@ def runHB(text, buf, font):
     buf.script = "Arab"
     buf.language = "ar"
 
+    font, glyphOrder = font
+
     hb.shape(font, buf)
 
     info = buf.glyph_infos
@@ -28,7 +34,10 @@ def runHB(text, buf, font):
     out = []
     for i, p in zip(info, positions):
         text = ""
-        text += font.get_glyph_name(i.codepoint)
+        try:
+            text += font.get_glyph_name(i.codepoint)
+        except TypeError:
+            text += glyphOrder[i.codepoint]
         text += " w=%d" % p.x_advance
         if p.x_offset:
             text += " x=%d" % p.x_offset
