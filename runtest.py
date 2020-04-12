@@ -3,27 +3,25 @@
 import argparse
 import sys
 
-import harfbuzz as hb
+import uharfbuzz as hb
 
 def getHbFont(fontname):
     with open(fontname, "rb") as fp:
         data = fp.read()
-    blob = hb.Blob.create_for_array(data, hb.HARFBUZZ.MEMORY_MODE_READONLY)
-    face = hb.Face.create(blob, 0, False)
-    font = hb.Font.create(face)
+    face = hb.Face(data)
+    font = hb.Font(face)
     font.scale = (face.upem, face.upem)
-    font.ot_set_funcs()
 
     return font
 
 def runHB(text, buf, font):
-    buf.clear_contents()
+    #buf.clear_contents()
     buf.add_str(text)
-    buf.direction = hb.HARFBUZZ.DIRECTION_RTL
-    buf.script = hb.HARFBUZZ.SCRIPT_ARABIC
-    buf.language = hb.Language.from_string("ar")
+    buf.direction = "RTL"
+    buf.script = "Arab"
+    buf.language = "ar"
 
-    hb.shape(font, buf, [])
+    hb.shape(font, buf)
 
     info = buf.glyph_infos
     positions = buf.glyph_positions
@@ -45,8 +43,8 @@ def runTest(tests, refs, fontname):
     passed = []
     results = []
     font = getHbFont(fontname)
-    buf = hb.Buffer.create()
     for i, (text, ref) in enumerate(zip(tests, refs)):
+        buf = hb.Buffer()
         result = runHB(text, buf, font)
         results.append(result)
         if ref == result:
