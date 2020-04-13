@@ -40,11 +40,15 @@ def runHB(text, buf, font):
             text += font.get_glyph_name(i.codepoint)
         except TypeError:
             text += glyphOrder[i.codepoint]
-        text += " w=%d" % p.x_advance
+        pos = ""
+        if p.x_advance:
+            pos += "w=%d" % p.x_advance
         if p.x_offset:
-            text += " x=%d" % p.x_offset
+            pos += "x=%d" % p.x_offset
         if p.y_offset:
-            text += " y=%d" % p.y_offset
+            pos += "y=%d" % p.y_offset
+        if pos:
+            text += f" {pos}"
         out.append(text)
 
     return "%s" % "|".join(out)
