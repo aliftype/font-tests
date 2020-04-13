@@ -14,21 +14,25 @@ RUNTEST=$(BASEDIR)/runtest.py
 AMREFS=$(sort $(wildcard $(REFDIR)/amiri/*.ref))
 AQREFS=$(sort $(wildcard $(REFDIR)/amiri-quran/*.ref))
 ARREFS=$(sort $(wildcard $(REFDIR)/aref-ruqaa/*.ref))
+QHREFS=$(sort $(wildcard $(REFDIR)/qahiri/*.ref))
 
 AMLOGS=$(AMREFS:$(REFDIR)/amiri/%.ref=$(LOGSDIR)/amiri/%.log)
 AQLOGS=$(AQREFS:$(REFDIR)/amiri-quran/%.ref=$(LOGSDIR)/amiri-quran/%.log)
 ARLOGS=$(ARREFS:$(REFDIR)/aref-ruqaa/%.ref=$(LOGSDIR)/aref-ruqaa/%.log)
+QHLOGS=$(QHREFS:$(REFDIR)/qahiri/%.ref=$(LOGSDIR)/qahiri/%.log)
 
-all: amiri amiri-quran aref-ruqaa
-update: update-amiri update-amiri-quran update-aref-ruqaa
+all: amiri amiri-quran aref-ruqaa qahiri
+update: update-amiri update-amiri-quran update-aref-ruqaa update-qahiri
 
 amiri: $(AMLOGS)
 amiri-quran: $(AQLOGS)
 aref-ruqaa: $(ARLOGS)
+qahiri: $(QHLOGS)
 
 update-amiri: $(AMREFS)
 update-amiri-quran: $(AQREFS)
 update-aref-ruqaa: $(ARREFS)
+update-qahiri: $(QHREFS)
 
 .ONESHELL:
 
