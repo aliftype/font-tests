@@ -2708,7 +2708,7 @@ uni06DF x=-84y=-44|uni0627 w=217|uni064F x=-89y=-19|uni0624 w=400|uni064E x=-37y
 uni064E y=-13|uni0646 w=572|uni0648 w=400|uni064F x=-43y=-19|uni062F.fina w=471|uni06E1 x=-60y=-14|uni0628.medi_BaaBaaInit w=168|uni064F x=-153y=-19|uni06CC.init_BaaBaaIsol w=295
 uni064F x=-111y=-162|uni0626 w=764|uni0650 x=-17|uni062F.fina w=471|uni06E1 x=-60y=-14|uni0628.medi_BaaBaaInit w=168|uni064F x=-153y=-19|uni06CC.init_BaaBaaIsol w=295
 uni0650 x=276|uni062A w=926|uni0627 w=217|uni064E x=-58y=-13|uni0630.fina_BaaDal w=481|uni0650 x=-222|uni0628.init_BaaDal w=170
-uni064D x=155y=376|uni062D.fina_AboveHaaIsol w=104|uni06E1 x=233y=-14|uni0628.init_AboveHaa w=543|uni0650 x=-17|uni0630.fina_BaaDal w=481|uni0650 x=-222|uni0628.init_BaaDal w=170
+uni064D x=125y=221|uni062D.fina_AboveHaaIsol w=104|uni06E1 x=233y=-14|uni0628.init_AboveHaa w=543|uni0650 x=-17|uni0630.fina_BaaDal w=481|uni0650 x=-222|uni0628.init_BaaDal w=170
 uni0650 x=-41|uni0631.fina_KafRaaIsol w=270|uni06E1 x=-36y=-14|uni0643.init_KafRaaIsol w=573|uni0650 x=-310|uni0630.fina_BaaDal w=188x=-293|uni0650 x=-222|uni0628.init_BaaDal w=170
 uni06E1 x=49y=-14|uni0645.fina w=522|uni0650 x=-66|uni0647.init w=452|uni0650 x=-41|uni0631.fina_KafRaaIsol w=270|uni06E1 x=-36y=-14|uni0643.init_KafRaaIsol w=573|uni0650 x=-310|uni0630.fina_BaaDal w=188x=-293|uni0650 x=-222|uni0628.init_BaaDal w=170
 uni064E x=83y=-13|uni0643.fina_LamKafIsol w=845|uni0650 x=-161|uni0644.init_LamLamInit w=158|uni0670.isol w=208|uni064E x=-58y=-13|uni0630.fina_BaaDal w=481|uni0650 x=-222|uni0628.init_BaaDal w=170
@@ -2743,7 +2743,7 @@ uni06D6|uni06E1 x=49y=-14|uni0645.fina w=522|uni0650 x=-163|uni0647.medi_BaaHehM
 uni064D x=-44|uni0629 w=369|uni064E x=-123y=-13|uni0648.fina w=345|uni06E1 x=-123y=-14|uni0628.init w=190|uni064E x=-20y=-13|uni0631.fina_BaaRaaIsol w=382x=83|uni0650 x=-166|uni0628.init_BaaRaaIsol w=176
 uni08F2 x=-40y=-30|uni0644 w=603|uni0627.fina w=229|uni064E x=-88y=-13|uni062C.init_Finjani w=606|uni0650 x=-66|uni0631.fina_BaaRaaIsol w=299|uni0650 x=-166|uni0628.init_BaaRaaIsol w=176
 uni06D6|uni064E x=97y=-13|uni0643.fina_LamKafFina w=813|uni0650 x=-261|uni0644.medi_LamLamMedi w=199|uni06E1 x=-1y=-14|uni062C.init_Finjani w=606|uni0650 x=-66|uni0631.fina_BaaRaaIsol w=299|uni0650 x=-166|uni0628.init_BaaRaaIsol w=176
-uni08F2 x=76y=346|uni062D.fina_AboveHaaIsol w=104|uni06CC.init_AboveHaa w=543|uni0650 x=-66|uni0631.fina_BaaRaaIsol w=299|uni0650 x=-166|uni0628.init_BaaRaaIsol w=176
+uni08F2 x=46y=191|uni062D.fina_AboveHaaIsol w=104|uni06CC.init_AboveHaa w=543|uni0650 x=-66|uni0631.fina_BaaRaaIsol w=299|uni0650 x=-166|uni0628.init_BaaRaaIsol w=176
 uni064D x=-54|uni0629.fina w=379|uni064E x=-171y=-13|uni0645.medi_KafMemMedi w=216|uni06E1 x=68y=-14|uni062D.init_HaaMemInit w=514|uni064E x=-103y=-13|uni0631.fina_BaaRaaIsol w=299|uni0650 x=-166|uni0628.init_BaaRaaIsol w=176
 uni06DA|uni064D x=-54|uni0629.fina w=379|uni064E x=-171y=-13|uni0645.medi_KafMemMedi w=216|uni06E1 x=68y=-14|uni062D.init_HaaMemInit w=514|uni064E x=-103y=-13|uni0631.fina_BaaRaaIsol w=299|uni0650 x=-166|uni0628.init_BaaRaaIsol w=176
 uni08F2 x=-133y=-30|uni0629.fina w=379|uni064E x=-171y=-13|uni0645.medi_KafMemMedi w=216|uni06E1 x=68y=-14|uni062D.init_HaaMemInit w=514|uni064E x=-103y=-13|uni0631.fina_BaaRaaIsol w=299|uni0650 x=-166|uni0628.init_BaaRaaIsol w=176
@@ -4142,7 +4142,7 @@ uni064E y=-13|uni0646 w=572|uni0648.fina_LamWawFina w=320|uni064F x=-212y=-19|un
 uni06DF x=-84y=-44|uni0627 w=217|uni06E4 x=244y=-318|uni0648.fina w=345|uni064F x=-80y=-19|uni0645.medi w=463|uni064E x=-142y=-13|uni0621.medi w=292|uni06E1 x=43y=-14|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni062A.init_BaaSenInit w=219
 uni064E y=-13|uni0646 w=572|uni0648.fina w=345|uni064F x=-236y=-19|uni0644.init w=175|uni064E x=-123y=-472|uni0621 w=381|uni06E4 x=195y=-9|uni0627.fina_Wide w=497x=122|uni064E x=-25y=-13|uni0633.medi w=568|uni064E x=-174y=-13|uni062A.medi_High w=244|uni064E x=-223y=-13|uni06CC.init_High w=314
 uni064E y=-13|uni0646 w=572|uni0648.fina w=345|uni064F x=-236y=-19|uni0644.init w=175|uni064E x=-123y=-472|uni0621 w=381|uni06E4 x=195y=-9|uni0627.fina_Wide w=497x=122|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni062A.init_BaaSenInit w=219
-uni064F x=67y=-19|uni062D.fina w=639|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni062A.init_BaaSenInit w=219
+uni064F x=67y=-19|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni062A.init_BaaSenInit w=219
 uni06DA|uni06E1 x=49y=-14|uni0645.fina w=522|uni064F x=-80y=-19|uni0647.medi w=390|uni064E x=48y=-13|uni062D.medi w=610|uni06CC.medi w=244|uni0650 x=-126|uni0628.medi_High w=244|uni06E1 x=43y=-14|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni062A.init_BaaSenInit w=219
 uni064E y=-13|uni0646 w=572|uni0648.fina w=345|uni064F x=42y=-19|uni062D.medi w=610|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni062A.init_BaaSenInit w=219
 uni064F x=67y=-19|uni0642.fina w=607|uni0650 x=-144|uni0628.medi w=244|uni06E1 x=43y=-14|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni062A.init_BaaSenInit w=219
@@ -4783,7 +4783,7 @@ uni06DF x=-84y=-44|uni0627 w=217|uni0648.fina w=345|uni064F x=86y=-19|uni0635.me
 uni06DF x=-84y=-44|uni0627 w=217|uni0648.fina w=345|uni064F x=67y=-19|uni0636.medi w=722|uni064F x=-55y=-19|uni0642.medi w=378|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni062A.init_BaaBaaIsol w=319
 uni064F x=-44y=-19|uni0645.fina w=522|uni0650 x=-100|uni0642.medi w=378|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni062A.init_BaaBaaIsol w=319
 uni064E y=-13|uni0646 w=572|uni0648.fina w=345|uni064F x=-80y=-19|uni0645.medi w=463|uni0650 x=-100|uni0642.medi w=378|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni062A.init_BaaBaaIsol w=319
-uni064E x=73y=-13|uni062D.fina w=639|uni0650 x=36|uni0643.medi w=588|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni062A.init_BaaBaaIsol w=319
+uni064E x=73y=-13|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=36|uni0643.medi w=588|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni062A.init_BaaBaaIsol w=319
 uni06DF x=-84y=-44|uni0627 w=217|uni06E4 x=244y=-318|uni0648.fina w=345|uni064F x=42y=-19|uni062D.medi w=610|uni0650 x=36|uni0643.medi w=588|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni062A.init_BaaBaaIsol w=319
 uni06DF x=-84y=-44|uni0627 w=217|uni0648.fina w=345|uni064F x=42y=-19|uni062D.medi w=610|uni0650 x=36|uni0643.medi w=588|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni062A.init_BaaBaaIsol w=319
 uni06DF x=-84y=-44|uni0627 w=217|uni0648.fina w=345|uni064F x=42y=-19|uni062D.medi w=610|uni0650 x=36|uni0643.medi w=588|uni0646.medi_BaaBaaInit w=168|uni064F x=-153y=-19|uni062A.init_BaaBaaIsol w=319
@@ -6693,7 +6693,7 @@ uni064E y=-13|uni0646 w=572|uni0648.fina w=345|uni064F x=23y=-19|uni062C.init w=
 uni06D7|uni064E y=-13|uni0646 w=572|uni0648.fina w=345|uni064F x=23y=-19|uni062C.init w=655|uni06E1 x=-16y=-14|uni0631.fina_BaaRaaIsol w=299|uni064E x=-150y=-13|uni06CC.init_BaaRaaIsol w=176
 uni064C x=-88y=-23|uni062D.fina_AboveHaaIsol w=104|uni06CC.init_AboveHaa w=543|uni0650 x=-13|uni0631 w=399
 uni064E x=-109y=-13|uni062D.fina_AboveHaaIsol w=104|uni06CC.init_AboveHaa w=543|uni0650 x=-13|uni0631 w=399
-uni08F2 x=76y=346|uni062D.fina_AboveHaaIsol w=104|uni06CC.init_AboveHaa w=543|uni0650 x=-13|uni0631 w=399
+uni08F2 x=46y=191|uni062D.fina_AboveHaaIsol w=104|uni06CC.init_AboveHaa w=543|uni0650 x=-13|uni0631 w=399
 uni0627.fina w=229|uni08F0 x=-161y=-20|uni062D.medi_SadHaaInit w=55|uni06CC.init_BaaHaaInit w=587|uni0650 x=70|uni0631 w=482x=83
 uni06E1 x=49y=-14|uni0645.fina w=522|uni0650 x=-163|uni0647.medi_LamHehInit w=240|uni0650 x=-173|uni0644.init_LamHehInit w=225|uni0627.fina w=229|uni064E x=-88y=-13|uni062D.init_Finjani w=606|uni0650 x=-13|uni0631 w=399
 uni06E1 x=279y=-14|uni062A.fina w=883|uni064E x=-186y=-13|uni0628.medi w=244|uni064F x=23y=-19|uni062D.init w=655|uni064E x=-74y=-13|uni0631 w=399
@@ -7193,9 +7193,9 @@ uni0627.fina w=229|uni064B x=-174y=-18|uni0628.medi w=244|uni064E x=-174y=-13|un
 uni0627.fina w=229|uni08F0 x=-166y=-20|uni0628.medi w=244|uni064E x=-174y=-13|uni0628.medi_High w=244|uni064E x=48y=-13|uni0633.init w=568
 uni06E1 x=49y=-14|uni0645.fina w=522|uni0650 x=-163|uni0647.medi_BaaHehMedi w=147|uni0650 x=-97|uni062A.medi_BaaHehMedi w=311|uni06E1 x=-87y=-14|uni0628.medi_High w=244|uni064E x=48y=-13|uni0633.init w=568
 uni064E y=-13|uni0646 w=572|uni0648.fina w=345|uni064F x=-192y=-19|uni062A.medi w=244|uni0650 x=-126|uni0628.medi_High w=244|uni06E1 x=43y=-14|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni06CC.init_BaaSenInit w=219
-uni064F x=67y=-19|uni062D.fina w=639|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni06CC.init_BaaSenInit w=219
+uni064F x=67y=-19|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni06CC.init_BaaSenInit w=219
 uni064E x=73y=-13|uni062D.fina w=639|uni064E.small x=77y=11|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=48y=-13|uni0633.init w=568
-uni0650 x=130y=303|uni062D.fina w=639|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=48y=-13|uni0633.init w=568
+uni0650 x=130y=303|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=48y=-13|uni0633.init w=568
 uni0627.fina w=229|uni08F0 x=-83y=-20|uni062D.medi_Finjani w=534|uni06E1 x=-99y=-14|uni0628.medi w=244|uni064E x=48y=-13|uni0633.init w=568
 uni064E y=-13|uni0646 w=572|uni0627.fina w=229|uni064E x=-103y=-13|uni062D.medi_Finjani w=534|uni06E1 x=-99y=-14|uni0628.medi w=244|uni064F x=42y=-19|uni0633.init w=568
 uni064E x=63y=-13|uni0646.fina w=615|uni06E1 x=135y=-14|uni062D.medi w=610|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni06CC.init_BaaSenInit w=219
@@ -8079,7 +8079,7 @@ uni0627.fina w=229|uni08F0.small x=77y=11|uni0651 x=-125y=-23|uni0628.medi w=244
 uni064F x=67y=-19|uni062D w=661|uni0627.fina w=229|uni064E x=-186y=-13|uni0628.medi w=244|uni064E x=39y=-13|uni0635.init w=698
 uni08F2 x=-75y=-30|uni0631 w=399|uni0627.fina w=229|uni064E.small x=77y=11|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=39y=-13|uni0635.init w=698
 uni0627.fina w=229|uni064E x=-186y=-13|uni0646.medi w=244|uni06E1 x=-99y=-14|uni0628.medi w=244|uni064E x=-174y=-13|uni0628.medi_High w=244|uni064E x=39y=-13|uni0635.init w=698
-uni064E x=73y=-13|uni062D.fina w=639|uni0650 x=-144|uni0628.medi w=244|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-216y=-19|uni06CC.init w=190
+uni064E x=73y=-13|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-144|uni0628.medi w=244|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-216y=-19|uni06CC.init w=190
 uni0627.fina w=229|uni08F0 x=-83y=-20|uni062D.medi_Finjani w=534|uni06E1 x=-99y=-14|uni0628.medi w=244|uni064F x=33y=-19|uni0635.init w=698
 uni0645.fina w=522|uni064F x=-80y=-19|uni0647.medi w=390|uni064E x=48y=-13|uni062D.medi w=610|uni064E.small x=77y=11|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=39y=-13|uni0635.init w=698
 uni06E1 x=-9y=-14|uni0631.fina_BaaRaaFina w=291|uni0650 x=-119|uni0628.medi_BaaRaaFina w=258|uni06E1 x=126y=-14|uni0635.init w=698|uni0671 w=217
@@ -8254,12 +8254,12 @@ uni06E1 x=49y=-14|uni0645.fina w=522|uni064F x=-171y=-19|uni0647.medi_BaaHehMedi
 uni06E1 x=49y=-14|uni0645.fina w=522|uni0650 x=-163|uni0647.medi_BaaHehMedi w=147|uni0650 x=-11|uni062A.init_BaaHehInit w=384|uni0627.fina_LamAlfFina w=446|uni064E x=-210y=-13|uni0644.medi_LamAlfFina w=245|uni064E x=39y=-13|uni0635.init w=698
 uni06DF x=-84y=-44|uni0627 w=217|uni06E4 x=244y=-318|uni0648.fina w=345|uni064F x=-192y=-19|uni0628.medi w=244|uni064E.small x=57y=11|uni0651 x=-145y=-23|uni0644.medi w=197|uni064E x=92y=-13|uni0635.medi w=722|uni064F x=-216y=-19|uni06CC.init w=190
 uni064F x=-95y=-19|uni0647 w=369|uni0648.fina w=345|uni064F x=-192y=-19|uni0628.medi w=244|uni064E x=-206y=-13|uni0644.medi w=197|uni064E x=39y=-13|uni0635.init w=698
-uni064F x=67y=-19|uni062D.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E x=92y=-13|uni0635.medi w=722|uni0670.medi w=292|uni064E x=-210y=-13|uni06CC.init w=190
-uni064F x=67y=-19|uni062D.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-216y=-19|uni06CC.init w=190
-uni06E1 x=160y=-14|uni062D.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-216y=-19|uni06CC.init w=190
-uni064C x=94y=-23|uni062D.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E x=39y=-13|uni0635.init w=698
-uni06DA|uni064C x=94y=-23|uni062D.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E x=39y=-13|uni0635.init w=698
-uni06D6|uni08F2 x=68y=273|uni062D.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E x=39y=-13|uni0635.init w=698
+uni064F x=67y=-19|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E x=92y=-13|uni0635.medi w=722|uni0670.medi w=292|uni064E x=-210y=-13|uni06CC.init w=190
+uni064F x=67y=-19|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-216y=-19|uni06CC.init w=190
+uni06E1 x=160y=-14|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-216y=-19|uni06CC.init w=190
+uni064C x=94y=-23|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E x=39y=-13|uni0635.init w=698
+uni06DA|uni064C x=94y=-23|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E x=39y=-13|uni0635.init w=698
+uni06D6|uni08F2 x=68y=273|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E x=39y=-13|uni0635.init w=698
 uni064E x=73y=-13|uni062D.fina w=639|uni064E x=-206y=-13|uni0644.medi w=197|uni064E x=39y=-13|uni0635.init w=698
 uni0627.fina w=229|uni064E x=-103y=-13|uni062D.medi_Finjani w=534|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-216y=-19|uni06CC.init w=190
 uni0627.fina w=229|uni064B x=-91y=-18|uni062D.medi_Finjani w=534|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E x=39y=-13|uni0635.init w=698
@@ -9895,8 +9895,8 @@ uni064E.small x=287y=11|uni0651 x=85y=-23|uni0644 w=603|uni0650 x=-32|uni0632.fi
 uni064E y=-13|uni0646 w=572|uni0648.fina w=345|uni064F x=-192y=-19|uni0628.medi w=244|uni06CC.medi w=244|uni0650 x=32|uni062C.medi w=610|uni064E x=-186y=-13|uni062A.medi w=244|uni06E1 x=62y=-14|uni0633.medi w=568|uni064E x=-174y=-13|uni062A.medi_High w=244|uni064E x=-191y=-13|uni0641.init w=295
 uni064E x=-127y=-13|uni0647.fina w=379|uni064E x=-186y=-13|uni0628.medi w=244|uni0670.medi w=292|uni064E x=-25y=-13|uni0634.medi w=568|uni064E x=-174y=-13|uni062A.medi_High w=244|uni064E x=-191y=-13|uni0641.init w=295
 uni06E4 x=205y=-381|uni0670 x=85y=-801|uni0649.fina_FaaYaaFina w=476|uni064E x=-1y=-13|uni0642.medi_FaaYaaFina w=426|uni06E1 x=62y=-14|uni0634.medi w=568|uni064E x=-174y=-13|uni062A.medi_High w=244|uni064E x=-191y=-13|uni0641.init w=295
-uni064E x=73y=-13|uni062D.fina w=639|uni0650 x=-144|uni0628.medi w=244|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-192y=-19|uni062A.medi w=244|uni064E x=-191y=-13|uni0641.init w=295
-uni064F x=67y=-19|uni062D.fina w=639|uni0650 x=-144|uni0628.medi w=244|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-192y=-19|uni062A.medi w=244|uni064E x=-191y=-13|uni0641.init w=295
+uni064E x=73y=-13|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-144|uni0628.medi w=244|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-192y=-19|uni062A.medi w=244|uni064E x=-191y=-13|uni0641.init w=295
+uni064F x=67y=-19|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-144|uni0628.medi w=244|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-192y=-19|uni062A.medi w=244|uni064E x=-191y=-13|uni0641.init w=295
 uni06DF x=-84y=-44|uni0627 w=217|uni0648.fina w=345|uni064F x=42y=-19|uni062D.medi w=610|uni0650 x=-144|uni0628.medi w=244|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-192y=-19|uni062A.medi w=244|uni064E x=-191y=-13|uni0641.init w=295
 uni0645.fina_KafMemFina w=226|uni064F x=-80y=-19|uni0643.medi_KafMemFina w=467|uni064E x=-186y=-13|uni0628.medi w=244|uni06CC.medi_High w=244|uni0650 x=130|uni0635.medi w=722|uni064F x=-192y=-19|uni062A.medi w=244|uni064E x=-191y=-13|uni0641.init w=295
 uni064E x=24y=-13|uni0644 w=603|uni064E x=-59y=-13|uni0648 w=400|uni0627.fina w=229|uni064E x=-25y=-13|uni0637.medi w=551|uni064E x=-186y=-13|uni062A.medi w=244|uni064E x=-191y=-13|uni0641.init w=295
@@ -10227,7 +10227,7 @@ uni06DA|uni0627 w=217|uni08F0 x=-44y=-20|uni062F w=450|uni0627.fina w=229|uni064
 uni0627.fina w=229|uni064E x=-165y=-13|uni0647.medi_BaaHehMedi w=147|uni064F x=-85y=-19|uni0628.medi_BaaHehMedi w=311|uni064F x=-192y=-19|uni062A.medi w=244|uni06E1 x=135y=-14|uni0643.init w=659|uni064E.small2 x=147y=-17|uni0623.fina w=289|uni064E x=-25y=-13|uni0633.medi w=568|uni064E x=-191y=-13|uni0641.init w=295
 uni06E1 x=279y=-14|uni062A.fina w=883|uni064E x=-230y=-13|uni0644.init w=175|uni0627.fina w=229|uni064E x=-25y=-13|uni0633.medi w=568|uni064E x=-191y=-13|uni0641.init w=295
 uni064E x=-38y=-13|uni0645.fina w=522|uni064E x=-123y=-13|uni0647.init w=452|uni0627.fina w=229|uni064E x=-25y=-13|uni0633.medi w=568|uni064E x=-191y=-13|uni0641.init w=295
-uni06E1 x=160y=-14|uni062D.fina w=639|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-25y=-13|uni0633.medi w=568|uni064E x=-191y=-13|uni0641.init w=295
+uni06E1 x=160y=-14|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-25y=-13|uni0633.medi w=568|uni064E x=-191y=-13|uni0641.init w=295
 uni064E x=63y=-13|uni0646.fina w=615|uni0670.medi w=292|uni064E x=48y=-13|uni062D.medi w=610|uni06E1 x=-99y=-14|uni0628.medi w=244|uni064F x=-31y=-19|uni0633.medi w=568|uni064E x=-191y=-13|uni0641.init w=295
 uni064F x=-133y=-19|uni0647.fina w=379|uni06E1 x=-16y=-14|uni062D.medi_Finjani w=534|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-25y=-13|uni0633.medi w=568|uni064E x=-191y=-13|uni0641.init w=295
 uni06DF x=-84y=-44|uni0627 w=217|uni0648.fina w=345|uni064F.small x=77y=50|uni0651 x=-125y=-23|uni0628.medi w=244|uni064F x=-31y=-19|uni0633.medi w=568|uni064E x=-174y=-13|uni06CC.medi_High w=244|uni064E x=-191y=-13|uni0641.init w=295
@@ -10664,7 +10664,7 @@ uni06DF x=-84y=-44|uni0627 w=217|uni0648.fina w=345|uni064F x=-31y=-19|uni0633.m
 uni0650 x=51y=-64|uni0633.fina w=1079|uni064E x=-191y=-13|uni0641.init w=295|uni0627.fina w=229|uni064E x=-186y=-13|uni0646.medi w=244|uni064E x=-174y=-13|uni062A.medi_High w=244|uni064E x=-186y=-13|uni06CC.medi w=244|uni06E1 x=-119y=-14|uni0644.medi w=197|uni064E x=-191y=-13|uni0641.init w=295
 uni0650 x=32y=-49|uni0644.fina_KafLam w=602|uni064E.small x=193y=11|uni0651 x=-9y=-23|uni0643.init_KafLam w=587|uni064E x=-269y=-13|uni0648.fina w=199x=-146|uni064E x=-186y=-13|uni062A.medi w=244|uni064E x=-186y=-13|uni06CC.medi w=244|uni06E1 x=-119y=-14|uni0644.medi w=197|uni064E x=-191y=-13|uni0641.init w=295
 uni0650 x=247|uni062A.fina w=883|uni0670.medi w=292|uni064E x=-210y=-13|uni06CC.init w=190|uni0650 x=105|uni0631.fina w=465x=122|uni0670.medi w=292|uni064E x=-269y=-13|uni062C.medi_FaaHaaInit w=72|uni06E1 x=67y=-14|uni0644.init_LamHaaInit w=559|uni0671.fina_Wide w=424|uni064E x=-191y=-13|uni0641.init w=295
-uni064F x=67y=-19|uni062D.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=38y=-14|uni0641.medi w=378|uni064F x=-216y=-19|uni06CC.init w=190
+uni064F x=67y=-19|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=38y=-14|uni0641.medi w=378|uni064F x=-216y=-19|uni06CC.init w=190
 uni0650 x=-13|uni0631 w=399|uni064E x=-37y=-13|uni0630.fina w=471|uni06E1 x=-16y=-14|uni062D.medi_Finjani w=534|uni064E x=-186y=-13|uni06CC.medi w=244|uni06E1 x=-119y=-14|uni0644.medi w=197|uni064E x=-191y=-13|uni0641.init w=295
 uni064F.small x=336y=50|uni0651 x=134y=-23|uni0642.fina w=607|uni064E x=-269y=-13|uni062D.medi_FaaHaaInit w=72|uni06E1 x=67y=-14|uni0644.init_LamHaaInit w=559|uni0671.fina_Wide w=424|uni064E x=-191y=-13|uni0641.init w=295
 uni064F x=-36y=-19|uni0645.fina_KafMemFinaExtended w=497|uni06E1 x=13y=-14|uni0643.medi_KafMemFina w=467|uni064F x=-275y=-19|uni062D.medi_FaaHaaInit w=72|uni06E1 x=67y=-14|uni0644.init_LamHaaInit w=559|uni0671.fina_Wide w=424|uni064E x=-191y=-13|uni0641.init w=295
@@ -12567,8 +12567,8 @@ uni064F x=57y=-19|uni0646.fina w=615|uni064F x=-80y=-19|uni0645.medi w=463|uni06
 uni064E x=-64y=-13|uni062F w=450|uni0648.fina w=345|uni064F x=-80y=-19|uni0645.medi w=463|uni064E x=-186y=-13|uni062B.medi w=244|uni0650 x=-193|uni0651 x=-169y=-23|uni0644.init w=175
 uni064F x=186y=-19|uni0628 w=926|uni0627 w=217|uni064E x=-123y=-13|uni0648.fina w=345|uni064E.small x=77y=11|uni0651 x=-125y=-23|uni062B.medi w=244|uni0644.init w=175|uni0671 w=217
 uni0650 x=276|uni0628 w=926|uni0627 w=217|uni064E x=-123y=-13|uni0648.fina w=345|uni064E.small x=77y=11|uni0651 x=-125y=-23|uni062B.medi w=244|uni0644.init w=175|uni0671 w=217
-uni064E x=73y=-13|uni062C.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni064E x=-210y=-13|uni06CC.init w=190
-uni064F x=67y=-19|uni062C.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni064E x=-210y=-13|uni06CC.init w=190
+uni064E x=73y=-13|uni062C.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni064E x=-210y=-13|uni06CC.init w=190
+uni064F x=67y=-19|uni062C.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni064E x=-210y=-13|uni06CC.init w=190
 uni08F2 x=19y=-79|uni0651 x=85y=-23|uni06CC.fina w=585|uni0650 x=-134|uni0651 x=-208y=-23|uni062C.medi_FaaHaaInit w=72|uni064F.small x=243y=50|uni0651 x=41y=-23|uni0644.init_LamHaaInit w=559
 uni064F x=-44y=-19|uni0645.fina w=522|uni064F x=-129y=-19|uni0647.init w=452|uni064E x=-123y=-472|uni0621 w=381|uni06E4 x=195y=-9|uni0627.fina_Wide w=497x=122|uni064E x=-269y=-13|uni062C.medi_FaaHaaInit w=72|uni064E.small x=243y=11|uni0651 x=41y=-23|uni0644.init_LamHaaInit w=559
 uni064F x=-70y=-19|uni062F w=450|uni0627.fina w=229|uni064E x=-186y=-13|uni06CC.medi w=244|uni0650 x=-134|uni062C.medi_FaaHaaInit w=72|uni06E1 x=67y=-14|uni0644.init_LamHaaInit w=559|uni0671 w=217
@@ -13005,7 +13005,7 @@ uni06D7|uni064F x=67y=-19|uni062D.fina w=639|uni0670.medi w=292|uni064E x=-210y=
 uni0650 x=130y=303|uni062D.fina w=639|uni0670.medi w=292|uni064E x=-210y=-13|uni06CC.init w=190|uni0650 x=42|uni0651 x=-12y=-23|uni0631.fina_LamRaaIsol w=414x=122|uni0644.init_LamRaaIsol w=216|uni0671 w=217
 uni064E x=-109y=-13|uni062D.fina_AboveHaaIsol w=104|uni06CC.init_AboveHaa w=543|uni0650 x=-80|uni0651 x=-134y=-23|uni0631.fina_LamRaaIsol w=292|uni0644.init_LamRaaIsol w=216|uni0671 w=217
 uni064F x=-115y=-19|uni062D.fina_AboveHaaIsol w=104|uni06CC.init_AboveHaa w=543|uni0650 x=-80|uni0651 x=-134y=-23|uni0631.fina_LamRaaIsol w=292|uni0644.init_LamRaaIsol w=216|uni0671 w=217
-uni0650 x=138y=376|uni062D.fina_AboveHaaIsol w=104|uni06CC.init_AboveHaa w=543|uni0650 x=-80|uni0651 x=-134y=-23|uni0631.fina_LamRaaIsol w=292|uni0644.init_LamRaaIsol w=216|uni0671 w=217
+uni0650 x=108y=221|uni062D.fina_AboveHaaIsol w=104|uni06CC.init_AboveHaa w=543|uni0650 x=-80|uni0651 x=-134y=-23|uni0631.fina_LamRaaIsol w=292|uni0644.init_LamRaaIsol w=216|uni0671 w=217
 uni064F x=-177y=-19|uni0645.fina_BaaMemFina w=223|uni06CC.medi_BaaMemFina w=337|uni0650 x=37|uni062D.init w=655|uni064E.small x=68y=11|uni0651 x=-134y=-23|uni0631.fina_LamRaaIsol w=292|uni0644.init_LamRaaIsol w=216|uni0671 w=217
 uni0650 x=8y=-259|uni0645.fina_BaaMemFina w=223|uni06CC.medi_BaaMemFina w=337|uni0650 x=37|uni062D.init w=655|uni064E.small x=68y=11|uni0651 x=-134y=-23|uni0631.fina_LamRaaIsol w=292|uni0644.init_LamRaaIsol w=216|uni0671 w=217
 uni064E x=-127y=-13|uni0629.fina w=379|uni064E x=-171y=-13|uni0645.medi_KafMemMedi w=216|uni06E1 x=68y=-14|uni062D.init_HaaMemInit w=514|uni064E.small x=68y=11|uni0651 x=-134y=-23|uni0631.fina_LamRaaIsol w=292|uni0644.init_LamRaaIsol w=216|uni0671 w=217
@@ -13367,7 +13367,7 @@ uni0627.fina w=229|uni064E x=-49y=-13|uni0641.medi w=378|uni064E.small x=355y=11
 uni064E x=73y=-13|uni062D.fina w=639|uni06E1 x=38y=-14|uni0641.medi w=378|uni064E.small x=355y=11|uni0651 x=153y=-23|uni0635.medi w=722|uni0644.init w=175|uni0671 w=217
 uni064F x=186y=-19|uni062A.fina w=883|uni0670.medi w=292|uni064E x=-186y=-13|uni0646.medi w=244|uni0650 x=-100|uni0641.medi w=378|uni0670.medi w=292|uni064E.small x=355y=11|uni0651 x=153y=-23|uni0635.medi w=722|uni0644.init w=175|uni0671 w=217
 uni0650 x=247|uni0628.fina w=883|uni06E1 x=-119y=-14|uni0644.medi w=197|uni064F.small x=355y=50|uni0651 x=153y=-23|uni0635.medi w=722|uni0644.init w=175|uni0671 w=217
-uni064F x=67y=-19|uni062D.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E.small x=355y=11|uni0651 x=153y=-23|uni0635.medi w=722|uni0644.init w=175|uni0671 w=217
+uni064F x=67y=-19|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E.small x=355y=11|uni0651 x=153y=-23|uni0635.medi w=722|uni0644.init w=175|uni0671 w=217
 uni064F x=186y=-19|uni062A.fina w=883|uni0670.medi w=292|uni064E x=48y=-13|uni062D.medi w=610|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E.small x=355y=11|uni0651 x=153y=-23|uni0635.medi w=722|uni0644.init w=175|uni0671 w=217
 uni0650 x=247|uni062A.fina w=883|uni0670.medi w=292|uni064E x=48y=-13|uni062D.medi w=610|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E.small x=355y=11|uni0651 x=153y=-23|uni0635.medi w=722|uni0644.init w=175|uni0671 w=217
 uni06DA|uni0650 x=247|uni062A.fina w=883|uni0670.medi w=292|uni064E x=48y=-13|uni062D.medi w=610|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E.small x=355y=11|uni0651 x=153y=-23|uni0635.medi w=722|uni0644.init w=175|uni0671 w=217
@@ -14219,8 +14219,8 @@ uni0650 x=-75y=181|uni0647.fina_Lellah w=352|uni064E.small x=67y=-204|uni0651 x=
 uni06D7|uni0650 x=-75y=181|uni0647.fina_Lellah w=352|uni064E.small x=67y=-204|uni0651 x=-135y=-238|uni0644.medi_Lellah w=230|uni0644.init_Lellah w=155|uni0671 w=217
 uni0650 x=-75y=181|uni0647.fina_Lellah w=352|uni064E.small x=67y=-204|uni0651 x=-135y=-238|uni0644.medi_Lellah w=230|uni0650 x=-212y=181|uni0644.init_Lellah w=155
 uni06D6|uni0650 x=-75y=181|uni0647.fina_Lellah w=352|uni064E.small x=67y=-204|uni0651 x=-135y=-238|uni0644.medi_Lellah w=230|uni0650 x=-212y=181|uni0644.init_Lellah w=155
-uni0650 x=-75y=181|uni0647.fina_Lellah w=352|uni064E.small x=67y=-204|uni0651 x=-135y=-238|uni0644.medi_Lellah w=230|uni0650 x=-212y=181|uni0651 x=-164y=-189|uni0644.init_Lellah w=155
-uni06D7|uni0650 x=-75y=181|uni0647.fina_Lellah w=352|uni064E.small x=67y=-204|uni0651 x=-135y=-238|uni0644.medi_Lellah w=230|uni0650 x=-212y=181|uni0651 x=-164y=-189|uni0644.init_Lellah w=155
+uni0650 x=-75y=181|uni0647.fina_Lellah w=352|uni064E.small x=67y=-204|uni0651 x=-135y=-238|uni0644.medi_Lellah w=230|uni0650 x=-212y=181|uni0651 x=-164y=-329|uni0644.init_Lellah w=155
+uni06D7|uni0650 x=-75y=181|uni0647.fina_Lellah w=352|uni064E.small x=67y=-204|uni0651 x=-135y=-238|uni0644.medi_Lellah w=230|uni0650 x=-212y=181|uni0651 x=-164y=-329|uni0644.init_Lellah w=155
 uni0627.fina w=229|uni064E x=-74y=-13|uni0647.medi w=390|uni064E x=-206y=-13|uni0644.medi w=197|uni06E1 x=-99y=-14|uni06CC.medi w=244|uni064E x=-230y=-13|uni0644.init w=175
 uni0650 x=247|uni0628.fina w=883|uni064E x=-74y=-13|uni0647.medi w=390|uni064E.small x=67y=11|uni0651 x=-135y=-23|uni0644.medi_LamLamInit w=221|uni0644.init_LamLamInit w=158|uni0671 w=217
 uni0670 x=100y=-630|uni0649 w=764|uni064E x=-37y=-13|uni062F.fina w=471|uni064F x=-80y=-19|uni0647.medi w=390|uni06E1 x=-109y=-14|uni0644.medi_LamLamInit w=221|uni064E x=-159y=-13|uni0644.init_LamLamInit w=158
@@ -14417,7 +14417,7 @@ uni064E x=-12y=-13|uni0646.fina_BaaNonFina w=542|uni06CC.medi_BaaNonFina w=218|u
 uni064F x=-102y=-19|uni0631.fina_BaaRaaFina w=291|uni06CC.medi_BaaRaaFina w=258|uni0650 x=130|uni0635.medi w=722|uni064E x=-74y=-13|uni0645.medi w=463|uni06E1 x=-143y=-14|uni0644.init w=175|uni0671 w=217
 uni064E y=-13|uni0646 w=572|uni0648 w=400|uni064F x=-177y=-19|uni0631.fina w=343|uni0650 x=-41|uni0637.medi w=551|uni06E1 x=-99y=-14|uni06CC.medi w=244|uni064E x=92y=-13|uni06E3 x=112|uni0635.medi w=722|uni064F x=-80y=-19|uni0645.medi w=463|uni06E1 x=-143y=-14|uni0644.init w=175|uni0671 w=217
 uni064E x=-12y=-13|uni0646.fina_BaaNonFina w=542|uni06E1 x=-182y=-14|uni06CC.medi_BaaNonFina w=218|uni064E x=-49y=-13|uni0641.medi w=378|uni064E x=-25y=-13|uni0637.medi w=551|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-80y=-19|uni0645.medi w=463|uni06E1 x=-143y=-14|uni0644.init w=175|uni0671 w=217
-uni06DA|uni0650 x=130y=303|uni062D.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-80y=-19|uni0645.medi w=463|uni06E1 x=-143y=-14|uni0644.init w=175|uni0671 w=217
+uni06DA|uni0650 x=130y=303|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-80y=-19|uni0645.medi w=463|uni06E1 x=-143y=-14|uni0644.init w=175|uni0671 w=217
 uni064E x=-12y=-13|uni0646.fina_BaaNonFina w=542|uni06CC.medi_BaaNonFina w=218|uni0650 x=17|uni062D.medi_Finjani w=534|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-80y=-19|uni0645.medi w=463|uni06E1 x=-143y=-14|uni0644.init w=175|uni0671 w=217
 uni064E x=-12y=-13|uni0646.fina_BaaNonFina w=542|uni06CC.medi_BaaNonFina w=218|uni0650 x=-168|uni0651 x=-145y=-23|uni0644.medi w=197|uni064E x=92y=-13|uni0635.medi w=722|uni064F x=-80y=-19|uni0645.medi w=463|uni06E1 x=-143y=-14|uni0644.init w=175|uni0671 w=217
 uni06D6|uni064F x=-80y=-19|uni0631 w=399|uni0650 x=-17|uni0651 x=-62y=-23|uni0648.fina w=345|uni064E x=92y=-13|uni0635.medi w=722|uni064F x=-80y=-19|uni0645.medi w=463|uni06E1 x=-143y=-14|uni0644.init w=175|uni0671 w=217
@@ -16564,7 +16564,7 @@ uni06E1 x=49y=-14|uni0645.fina w=522|uni0650 x=-66|uni0647.medi w=390|uni0650.sm
 uni064E.small x=326y=11|uni0651 x=124y=-23|uni0646.fina w=615|uni0650 x=-66|uni0647.medi w=390|uni0650.small2 x=83y=-203|uni0655 x=83y=73|uni0649.init w=190|uni06E4 x=195y=-9|uni0627.fina_Wide w=497x=122|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni0650 x=-116|uni0646.init_BaaSenInit w=219
 uni0627.fina w=229|uni08F0 x=-166y=-20|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni0646.init_BaaSenInit w=219
 uni06DA|uni0627.fina w=229|uni08F0 x=-166y=-20|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni0646.init_BaaSenInit w=219
-uni064F x=67y=-19|uni062D.fina w=639|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni0646.init_BaaSenInit w=219
+uni064F x=67y=-19|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni0646.init_BaaSenInit w=219
 uni064E x=87y=-13|uni0643.fina w=822|uni064E x=-103y=-13|uni062D.medi_Finjani w=534|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni0646.init_BaaSenInit w=219
 uni064E x=192y=-13|uni062A.fina w=883|uni06CC.medi_High w=244|uni0650 x=66|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni0646.init_BaaSenInit w=219
 uni064F x=186y=-19|uni062A.fina w=883|uni06CC.medi_High w=244|uni0650 x=66|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni0646.init_BaaSenInit w=219
@@ -16572,7 +16572,7 @@ uni064F x=67y=-19|uni0642.fina w=607|uni0650 x=-144|uni0628.medi w=244|uni064E x
 uni06E1 x=23y=-14|uni0630 w=450|uni0650 x=-17|uni0648.fina w=345|uni06E1 x=135y=-14|uni062D.medi w=610|uni064E x=-186y=-13|uni062A.medi w=244|uni06E1 x=43y=-14|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni0646.init_BaaSenInit w=219
 uni064F x=-18y=-19|uni0646.fina_BaaNonFina w=542|uni06CC.medi_BaaNonFina w=218|uni0650 x=-115|uni0639.medi w=366|uni064E x=-186y=-13|uni062A.medi w=244|uni06E1 x=43y=-14|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni0646.init_BaaSenInit w=219
 uni06E1 x=-84y=-14|uni0645.fina_BaaMemFina w=223|uni064F x=-129y=-19|uni062A.medi_BaaMemFina w=337|uni06CC.medi w=244|uni0650 x=66|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni0646.init_BaaSenInit w=219
-uni064F x=67y=-19|uni062E.fina w=639|uni0650 x=42|uni0633.medi w=568|uni0646.medi_High w=244|uni064E x=-186y=-13|uni062A.medi w=244|uni06E1 x=43y=-14|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni0646.init_BaaSenInit w=219
+uni064F x=67y=-19|uni062E.fina w=639|uni0640.1 w=185|uni0650 x=42|uni0633.medi w=568|uni0646.medi_High w=244|uni064E x=-186y=-13|uni062A.medi w=244|uni06E1 x=43y=-14|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni0646.init_BaaSenInit w=219
 uni0627.fina w=229|uni064E x=-165y=-13|uni0647.medi_BaaHehMedi w=147|uni0650 x=-97|uni062A.medi_BaaHehMedi w=311|uni064E x=48y=-13|uni062E.medi w=610|uni06E1 x=43y=-14|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni0646.init_BaaSenInit w=219
 uni064F x=-177y=-19|uni0631.fina w=343|uni064E x=48y=-13|uni062E.medi w=610|uni06E1 x=43y=-14|uni0633.medi_BaaSenInit w=492|uni064E x=-264y=-13|uni0646.init_BaaSenInit w=219
 uni064F x=-102y=-19|uni0631.fina_BaaRaaFina w=291|uni0650 x=-119|uni0651 x=-96y=-23|uni06CC.medi_BaaRaaFina w=258|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni0646.init_BaaSenInit w=219
@@ -16788,7 +16788,7 @@ uni064D|uni062F w=450|uni0627.fina w=229|uni064E x=-49y=-13|uni0641.medi w=378|u
 uni0627.fina w=229|uni08F0 x=-171y=-20|uni0642.init w=295|uni0627.fina w=229|uni064E x=-49y=-13|uni0641.medi w=378|uni0650 x=-178|uni0646.init w=190
 uni08F1 x=-97y=-18|uni0629.fina w=379|uni064E x=-103y=-13|uni062D.medi_Finjani w=534|uni06E1 x=38y=-14|uni0641.medi w=378|uni064E x=-210y=-13|uni0646.init w=190
 uni064F x=67y=-19|uni062E.fina w=639|uni064E x=-49y=-13|uni0641.medi w=378|uni0646.medi_BaaBaaInit w=168|uni064F x=-153y=-19|uni06CC.init_BaaBaaIsol w=295
-uni064E x=73y=-13|uni062E.fina w=639|uni0650 x=-100|uni0641.medi w=378|uni064F x=-216y=-19|uni0646.init w=190
+uni064E x=73y=-13|uni062E.fina w=639|uni0640.1 w=185|uni0650 x=-100|uni0641.medi w=378|uni064F x=-216y=-19|uni0646.init w=190
 uni08F1 x=-97y=-18|uni0629.fina w=379|uni064E x=-103y=-13|uni062E.medi_Finjani w=534|uni06E1 x=38y=-14|uni0641.medi w=378|uni064E x=-210y=-13|uni0646.init w=190
 uni06D6|uni06DF x=-84y=-44|uni0627 w=217|uni0648.fina w=345|uni064F x=42y=-19|uni062E.medi w=610|uni064F x=-55y=-19|uni0641.medi w=378|uni0646.init w=190|uni0671 w=217
 uni064F x=-43y=-19|uni062F.fina w=471|uni064E x=-49y=-13|uni0641.medi w=378|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni06CC.init_BaaBaaIsol w=295
@@ -16925,8 +16925,8 @@ uni064F x=186y=-19|uni062B.fina w=883|uni064F x=-2y=-19|uni0643.medi w=588|uni06
 uni064E x=192y=-13|uni062B.fina w=883|uni064E x=4y=-13|uni0643.medi w=588|uni064E.small x=53y=11|uni0651 x=-149y=-23|uni0646.init w=190
 uni06DF x=-84y=-44|uni0627 w=217|uni06E4 x=244y=-318|uni0648.fina w=345|uni064F x=-192y=-19|uni062B.medi w=244|uni064E x=4y=-13|uni0643.medi w=588|uni064E.small x=53y=11|uni0651 x=-149y=-23|uni0646.init w=190
 uni064E y=-13|uni0646 w=572|uni0648.fina w=345|uni064F x=-192y=-19|uni062B.medi w=244|uni064F x=-2y=-19|uni0643.medi w=588|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni06CC.init_BaaBaaIsol w=295
-uni064E x=73y=-13|uni062D.fina w=639|uni0650 x=36|uni0643.medi w=588|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni06CC.init_BaaBaaIsol w=295
-uni064F x=67y=-19|uni062D.fina w=639|uni0650 x=36|uni0643.medi w=588|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni06CC.init_BaaBaaIsol w=295
+uni064E x=73y=-13|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=36|uni0643.medi w=588|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni06CC.init_BaaBaaIsol w=295
+uni064F x=67y=-19|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=36|uni0643.medi w=588|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni06CC.init_BaaBaaIsol w=295
 uni064E x=73y=-13|uni062D.fina w=639|uni064E x=4y=-13|uni0643.medi w=588|uni064E x=-210y=-13|uni0646.init w=190
 uni064F x=-177y=-19|uni0645.fina_BaaMemFina w=223|uni064F x=-129y=-19|uni062A.medi_BaaMemFina w=337|uni06E1 x=135y=-14|uni062D.medi w=610|uni064E x=4y=-13|uni0643.medi w=588|uni064E x=-210y=-13|uni0646.init w=190
 uni064E x=63y=-13|uni0646.fina w=615|uni06E1 x=135y=-14|uni062D.medi w=610|uni0650 x=36|uni0643.medi w=588|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni06CC.init_BaaBaaIsol w=295
@@ -17483,7 +17483,7 @@ uni0645.fina_KafMemFina w=226|uni064F x=-80y=-19|uni0643.medi_KafMemFina w=467|u
 uni0627.fina_LamAlfFina w=446|uni064B x=-198y=-18|uni0644.medi_LamAlfFina w=245|uni06CC.medi w=244|uni0650 x=81|uni0635.init w=698|uni064E.small2 x=113y=-17|uni0623 w=234|uni064E x=-59y=-13|uni0648 w=400
 uni0627.fina_LamAlfFina w=446|uni08F0 x=-190y=-20|uni0644.medi_LamAlfFina w=245|uni06CC.medi w=244|uni0650 x=81|uni0635.init w=698|uni064E.small2 x=113y=-17|uni0623 w=234|uni064E x=-59y=-13|uni0648 w=400
 uni064E x=73y=-13|uni062D.fina w=639|uni064E x=-206y=-13|uni0644.medi w=197|uni06E1 x=126y=-14|uni0635.init w=698|uni064E.small2 x=113y=-17|uni0623 w=234|uni064E x=-59y=-13|uni0648 w=400
-uni06E1 x=160y=-14|uni062D.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=126y=-14|uni0635.init w=698|uni064E.small2 x=113y=-17|uni0623 w=234|uni064E x=-59y=-13|uni0648 w=400
+uni06E1 x=160y=-14|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=126y=-14|uni0635.init w=698|uni064E.small2 x=113y=-17|uni0623 w=234|uni064E x=-59y=-13|uni0648 w=400
 uni0627.fina w=229|uni064E x=-103y=-13|uni062D.medi_Finjani w=534|uni064E x=-206y=-13|uni0644.medi w=197|uni06E1 x=126y=-14|uni0635.init w=698|uni064E.small2 x=113y=-17|uni0623 w=234|uni064E x=-59y=-13|uni0648 w=400
 uni0627.fina w=229|uni064E x=-186y=-13|uni0646.medi w=244|uni06E1 x=135y=-14|uni062D.medi w=610|uni064E x=-206y=-13|uni0644.medi w=197|uni06E1 x=126y=-14|uni0635.init w=698|uni064E.small2 x=113y=-17|uni0623 w=234|uni064E x=-59y=-13|uni0648 w=400
 uni06DF x=-84y=-44|uni0627 w=217|uni06E4 x=244y=-318|uni0648.fina w=345|uni064F x=42y=-19|uni062D.medi w=610|uni064E x=-206y=-13|uni0644.medi w=197|uni06E1 x=126y=-14|uni0635.init w=698|uni064E.small2 x=113y=-17|uni0623 w=234|uni064E x=-59y=-13|uni0648 w=400
@@ -18689,8 +18689,8 @@ uni06E1 x=279y=-14|uni062A w=926|uni064E x=-123y=-472|uni0621 w=381|uni06E4 x=19
 uni064E x=-74y=-13|uni0631 w=399|uni0627.fina w=229|uni064E x=48y=-13|uni0633.init w=568|uni064E x=-59y=-13|uni0648 w=400
 uni06E2 x=167y=-3|uni064F x=186y=-19|uni0628 w=926|uni0650 x=-13|uni0631 w=399|uni0627.fina w=229|uni064E x=48y=-13|uni0633.init w=568|uni064E x=-59y=-13|uni0648 w=400
 uni06DF x=-84y=-44|uni0627 w=217|uni06E4 x=244y=-318|uni0648.fina w=345|uni064F x=-80y=-19|uni0639.init w=477|uni0650 x=-13|uni0631 w=399|uni0627.fina w=229|uni064E x=48y=-13|uni0633.init w=568|uni064E x=-59y=-13|uni0648 w=400
-uni064F x=67y=-19|uni062D.fina w=639|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni06CC.init_BaaSenInit w=219|uni064E x=24y=-13|uni0648 w=483x=83
-uni06E1 x=160y=-14|uni062D.fina w=639|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=48y=-13|uni0633.init w=568|uni064E x=-59y=-13|uni0648 w=400
+uni064F x=67y=-19|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=-44y=-13|uni0633.medi_BaaSenInit w=492|uni064F x=-270y=-19|uni06CC.init_BaaSenInit w=219|uni064E x=24y=-13|uni0648 w=483x=83
+uni06E1 x=160y=-14|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=48y=-13|uni0633.init w=568|uni064E x=-59y=-13|uni0648 w=400
 uni064E x=63y=-13|uni0646.fina w=615|uni0670.medi w=292|uni064E x=48y=-13|uni062D.medi w=610|uni06E1 x=-99y=-14|uni0628.medi w=244|uni064F x=42y=-19|uni0633.init w=568|uni064E x=-59y=-13|uni0648 w=400
 uni064F x=-133y=-19|uni0647.fina w=379|uni06E1 x=-16y=-14|uni062D.medi_Finjani w=534|uni0650 x=-144|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=48y=-13|uni0633.init w=568|uni064E x=-59y=-13|uni0648 w=400
 uni06DF x=-84y=-44|uni0627 w=217|uni0648.fina w=345|uni064F x=42y=-19|uni062D.medi w=610|uni064E.small x=77y=11|uni0651 x=-125y=-23|uni0628.medi w=244|uni064E x=48y=-13|uni0633.init w=568|uni064E x=-59y=-13|uni0648 w=400
@@ -18893,8 +18893,8 @@ uni064F x=-36y=-19|uni0645.fina_KafMemFinaExtended w=497|uni064F x=-80y=-19|uni0
 uni064E x=24y=-13|uni0644.fina w=644|uni064E x=39y=-13|uni0635.init w=698|uni0648.fina w=345|uni064F x=-216y=-19|uni06CC.init w=190
 uni0650 x=32y=-49|uni0651 x=85y=-23|uni0644.fina w=644|uni064E x=39y=-13|uni0635.init w=698|uni064E x=-59y=-13|uni0648 w=400
 uni08F2 x=-128y=-30|uni0629.fina_LamHeh w=404|uni064E x=-272y=-13|uni0644.medi_LamHeh w=187|uni06CC.medi w=244|uni0650 x=81|uni0635.init w=698|uni064E x=-59y=-13|uni0648 w=400
-uni064F x=67y=-19|uni062D.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-216y=-19|uni06CC.init w=190|uni064E x=63y=-13|uni0648 w=522x=122
-uni064F x=67y=-19|uni062D.fina w=639|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E x=39y=-13|uni0635.init w=698|uni064E x=-59y=-13|uni0648 w=400
+uni064F x=67y=-19|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni06E1 x=179y=-14|uni0635.medi w=722|uni064F x=-216y=-19|uni06CC.init w=190|uni064E x=63y=-13|uni0648 w=522x=122
+uni064F x=67y=-19|uni062D.fina w=639|uni0640.1 w=185|uni0650 x=-168|uni0644.medi w=197|uni0670.medi w=292|uni064E x=39y=-13|uni0635.init w=698|uni064E x=-59y=-13|uni0648 w=400
 uni0627.fina w=229|uni064E x=-186y=-13|uni0646.medi w=244|uni06E1 x=-119y=-14|uni0644.medi w=197|uni064E.small x=302y=11|uni0651 x=100y=-23|uni0635.init w=698|uni064E x=-59y=-13|uni0648 w=400
 uni0650 x=276|uni062A w=926|uni0670.isol w=208|uni064E x=-120y=-13|uni0648.fina_LamWawFina w=320|uni064E x=-206y=-13|uni0644.medi_LamWawFina w=253|uni064E x=39y=-13|uni0635.init w=698|uni064E x=-59y=-13|uni0648 w=400
 uni08F1 x=222y=-18|uni062A w=926|uni0670.isol w=208|uni064E x=-120y=-13|uni0648.fina_LamWawFina w=320|uni064E x=-206y=-13|uni0644.medi_LamWawFina w=253|uni064E x=39y=-13|uni0635.init w=698|uni064E x=-59y=-13|uni0648 w=400
@@ -20428,7 +20428,7 @@ uni06E5.low w=244|uni064F x=-133y=-19|uni0647.fina w=379|uni064E x=-74y=-13|uni0
 uni06DA|uni06E4 x=205y=-393|uni06E6 w=407|uni0650 x=-71|uni0647.fina w=379|uni0650 x=-115|uni0639.medi w=366|uni06E1 x=-60y=-14|uni0646.medi_BaaBaaInit w=168|uni064E x=-147y=-13|uni06CC.init_BaaBaaIsol w=295|uni064E x=24y=-13|uni0648 w=483x=83
 uni0627.fina w=229|uni08F0 x=-171y=-20|uni0642.init w=295|uni0627.fina w=229|uni064E x=-49y=-13|uni0641.medi w=378|uni0650 x=-178|uni0646.init w=190|uni064E x=-59y=-13|uni0648 w=400
 uni064E x=73y=-13|uni062E.fina w=639|uni064E x=-49y=-13|uni0641.medi w=378|uni064E x=-210y=-13|uni0646.init w=190|uni064E x=-59y=-13|uni0648 w=400
-uni064E x=73y=-13|uni062E.fina w=639|uni0650 x=-100|uni0641.medi w=378|uni064F x=-216y=-19|uni0646.init w=190|uni064E x=-59y=-13|uni0648 w=400
+uni064E x=73y=-13|uni062E.fina w=639|uni0640.1 w=185|uni0650 x=-100|uni0641.medi w=378|uni064F x=-216y=-19|uni0646.init w=190|uni064E x=-59y=-13|uni0648 w=400
 uni064F x=186y=-19|uni062A.fina w=883|uni06E1 x=135y=-14|uni062E.medi w=610|uni064E x=-49y=-13|uni0641.medi w=378|uni064E x=-210y=-13|uni0646.init w=190|uni064E x=-59y=-13|uni0648 w=400
 uni08F2 x=-11y=-94|uni0633.fina w=1079|uni06E1 x=38y=-14|uni0641.medi w=378|uni064E x=-210y=-13|uni0646.init w=190|uni064E x=-59y=-13|uni0648 w=400
 uni064F x=18y=-19|uni0644.fina w=644|uni0650 x=130|uni0651 x=153y=-23|uni0635.medi w=722|uni064E x=-49y=-13|uni0641.medi w=378|uni064F x=-216y=-19|uni0646.init w=190|uni064E x=-59y=-13|uni0648 w=400
