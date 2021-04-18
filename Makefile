@@ -52,7 +52,7 @@ update-qahiri: $(QHREFS)
 	@source $(ENVDIR)/bin/activate
 	@$(eval REF=$(notdir $(patsubst %/,%,$(dir $@))))
 	@$(eval TEST=$(basename $(notdir $@)))
-	@echo "   TEST    $(REF):$(TEST)"
+	@echo "   REF     $(REF):$(TEST)"
 	@$(PY) $(RUNTEST)                                                      \
 	       --reference                                                     \
 	       --font-file=$(REFDIR)/$(REF)/font                               \
